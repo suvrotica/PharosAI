@@ -16,7 +16,7 @@
           </ul>
        </header>
       <slot/>
-      <footer>Pharos AI<progress></progress></footer>
+      <footer>Pharos AI</footer>
     </article>
    
    
