@@ -12,6 +12,7 @@
   <div class="grid">
   
   <img src=".\images\seq1.png" alt="sequence" class="content-image">
+  <section><br></section>
   <img src=".\images\usecase.png" alt="usecase" class="content-image">
 
   </div>
