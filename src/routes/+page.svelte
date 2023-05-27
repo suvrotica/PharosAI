@@ -1,6 +1,12 @@
 <main class="container">
+  <div class="grid">
+    <div> <img src=".\images\lh.jpeg" alt="lighthouse" class="content-image"></div>
+    <div><p>Pharos means lighthouse in Greek. We envision a future where artificial intelligence is the beacon that guides businesses across all industries towards unprecedented innovation and growth. Our vision is to be the lighthouse in this transformative journey, providing bespoke AI strategies, unparalleled expertise, and continuous support to businesses around the globe.</p></div>
+   
+  </div>
   <h1>Welcome to PharosAI!</h1>
   <div class="content-grid">
+
     <img src=".\images\lh.jpeg" alt="lighthouse" class="content-image">
     <div class="content-text">
       <p>Pharos means lighthouse in Greek. We envision a future where artificial intelligence is the beacon that guides businesses across all industries towards unprecedented innovation and growth. Our vision is to be the lighthouse in this transformative journey, providing bespoke AI strategies, unparalleled expertise, and continuous support to businesses around the globe.</p>
