@@ -1,5 +1,5 @@
 <main class="container">
-  <h1>Welcome to PharosAI Consultancy!</h1>
+  <h1>Welcome to PharosAI!</h1>
   <p>Pharos means lighthouse in Greek. We envision a future where artificial intelligence is the beacon that guides businesses across all industries towards unprecedented innovation and growth. Our vision is to be the lighthouse in this transformative journey, providing bespoke AI strategies, unparalleled expertise, and continuous support to businesses around the globe.</p>
   <p>
     We aspire to be the leading authority on AI integration and trailblazers in AI advancements, consistently pushing the frontier of what is possible. Our goal is to steer our clients through the complexities of the AI landscape, demystifying their path towards AI adoption and helping them unlock unparalleled potential.
