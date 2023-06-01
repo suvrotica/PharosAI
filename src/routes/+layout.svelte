@@ -12,16 +12,7 @@
     });
   </script>
   
-  <svelte:head>
-    <style>
-      body {
-        font-family: 'Roboto', sans-serif;
-        
-      }
-
-      article {text-align: justify;}
-    </style>
-  </svelte:head>
+ 
 
   <main class="container">
     <article>
@@ -30,4 +21,12 @@
         <footer>Footer</footer>
       </article>
   </main>
+  
+  <style>
+ :global(body) {
+    font-family: 'Roboto', sans-serif;
+  }
+      article {text-align: justify;}
+ 
+  </style>
   
