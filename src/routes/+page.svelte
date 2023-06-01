@@ -2,7 +2,7 @@
 
   <h1>Welcome to PharosAI!</h1>
     <div class="grid">
-      <article><p> Pharos means lighthouse in Greek. We envision a future with us as the beacon that guides businesses across all industries towards unprecedented innovation and growth. Our vision in this transformative journey, providing bespoke AI strategies, unparalleled expertise, and continuous support to businesses around the globe. We aspire to be the leading authority on AI integration and trailblazers in AI advancements, consistently pushing the frontier of what is possible. Our goal is to steer our clients through the complexities of the AI landscape, demystifying their path towards AI adoption and helping them unlock unparalleled potential.</p>
+      <article>Pharos means lighthouse in Greek. We envision a future with us as the beacon that guides businesses across all industries towards unprecedented innovation and growth. Our vision in this transformative journey, providing bespoke AI strategies, unparalleled expertise, and continuous support to businesses around the globe. We aspire to be the leading authority on AI integration and trailblazers in AI advancements, consistently pushing the frontier of what is possible. Our goal is to steer our clients through the complexities of the AI landscape, demystifying their path towards AI adoption and helping them unlock unparalleled potential.
        </article>
 
      

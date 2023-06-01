@@ -16,8 +16,10 @@
     <style>
       body {
         font-family: 'Roboto', sans-serif;
-        text-align: justify;
+        
       }
+
+      article {text-align: justify;}
     </style>
   </svelte:head>
 
