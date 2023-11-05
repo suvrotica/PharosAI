@@ -6,6 +6,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
 </svelte:head>
 <main class="container">
+	<h1>hello</h1>
 	<article>
 		<header>Header info</header>
 		<slot />
