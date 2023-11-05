@@ -7,7 +7,7 @@
 </svelte:head>
 <main class="container">
 	<article>
-		<header>Header</header>
+		<header>Header info</header>
 		<slot />
 		<footer>Footer</footer>
 	</article>
